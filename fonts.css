@@ -1,0 +1,22 @@
+/* font-family-1*/
+@font-face {
+    font-family:Cormorant_Garamond;
+    src: url(./FONTS/Cormorant_Garamond/CormorantGaramond-MediumItalic.ttf);
+}
+
+/* font-family-2*/
+@font-face {
+    font-family:Dancing_Script;
+    src: url(./FONTS/Dancing_Script/DancingScript-Regular.ttf);
+}
+
+/* font-family-3*/
+@font-face {
+    font-family:StayDreaming;
+    src: url(./FONTS/stay-dreaming-cufonfonts/StayDreaming-RpLLA.ttf);
+}
+/* font-family-4*/
+@font-face {
+    font-family:Her_Von_Muellerhoff;
+    src: url(./FONTS/Herr_Von_Muellerhoff/HerrVonMuellerhoff-Regular.ttf);
+}
